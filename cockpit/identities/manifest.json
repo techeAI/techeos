@@ -1,0 +1,11 @@
+{
+    "version": 2.0,
+
+    "menu": {
+        "identities": {
+            "label": "Identities",
+            "path": "index.html",
+            "order": 116
+        }
+    }
+}

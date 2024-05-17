@@ -1,0 +1,99 @@
+.body{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.pf-c-page__main-section {
+  background-color:#f1f3f5 !important;
+font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-card {
+    border: 0.0625rem solid #dee2e6;
+    border-radius: 1rem;
+    box-shadow: 0 0.0625rem 0.1875rem rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05) 0 0.625rem 0.9375rem -0.3125rem, rgba(0, 0, 0, 0.04) 0 0.4375rem 0.4375rem -0.3125rem;
+}
+.contains-list {
+    padding-bottom: 40px !important;
+}
+button.pf-c-button {
+    color: #366a6c !important;
+    background-color: rgba(54, 106, 108, 0.0784313725) !important;
+    border-color: #693c3c !important;
+}
+.pf-c-button:after {
+    border-color: rgb(54 106 108 / 0%) !important;
+}
+.pf-c-card__title-text {
+    font-weight: 700!important;
+    font-size: 1.375rem!important;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.cockpit-log-message, .cockpit-log-service, .cockpit-log-service-reduced {
+    font-size: 1rem!important;
+    line-height: 1.55!important;
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-table tr:where(.pf-v5-c-table__tr)>* {
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+    font-family: 'Segoe UI', sans-serif !important;
+}
+.ct-plot-axis, .ct-plot-unit {
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+    font-family: 'Segoe UI', sans-serif !important;
+}
+.pf-m-gutter {
+    gap: 1.6rem!important;
+}
+
+.pf-c-dropdown__toggle.pf-m-primary {
+    background-color: #366a6c;
+}
+
+.pf-c-button.pf-m-primary {
+    color: #ffffff;
+    background-color: #366a6c;
+}
+.pf-c-modal-box.pf-m-align-top {
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-modal-box__title, .pf-c-modal-box__title-text {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.sidepanel-row-name {
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-page__main-breadcrumb {
+    font-size: 1rem !important;
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-card__title {
+    font-weight: 700!important;
+}
+.ct-card.pf-c-card .pf-c-card__title>h2, #storage .pf-c-card .pf-c-card__title>h2 {
+    font-weight: 700;
+}
+.pf-c-form-control:hover {
+    --pf-c-form-control--BorderBottomColor: #f0f0f0;
+}
+input:focus-visible {
+    outline-offset: 0px;
+    outline:0px!important;
+}
+select:focus-visible {
+    outline-offset: 0px;
+    outline:0px!important;
+}
+
+.pf-c-form-control {
+    --pf-c-form-control--BorderBottomColor: #f0f0f0!important;
+}
+.pf-c-modal-box {
+        border-radius: 0.25rem;
+    }

@@ -1,0 +1,79 @@
+.body{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.pf-c-page__main-section {
+  background-color:#f1f3f5 !important;
+font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-card {
+    border: 0.0625rem solid #dee2e6;
+    border-radius: 1rem;
+    box-shadow: 0 0.0625rem 0.1875rem rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05) 0 0.625rem 0.9375rem -0.3125rem, rgba(0, 0, 0, 0.04) 0 0.4375rem 0.4375rem -0.3125rem;
+}
+.contains-list {
+    padding-bottom: 40px !important;
+}
+button.pf-c-button {
+    color: #366a6c !important;
+    background-color: rgba(54, 106, 108, 0.0784313725) !important;
+    border-color: #693c3c !important;
+}
+.pf-c-button:after {
+    border-color: rgb(54 106 108 / 0%) !important;
+}
+.pf-c-card__title-text {
+    font-weight: 700!important;
+    font-size: 1.375rem!important;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.pf-c-modal-box.pf-m-align-top {
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-c-modal-box__title, .pf-c-modal-box__title-text {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.cockpit-log-panel {
+    overflow-x: unset;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    border-radius: 1rem;
+    box-shadow: 0 0.0625rem 0.1875rem rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05) 0 0.625rem 0.9375rem -0.3125rem, rgba(0, 0, 0, 0.04) 0 0.4375rem 0.4375rem -0.3125rem;
+}
+.pf-c-toolbar {
+    --pf-c-toolbar--BackgroundColor: #f1f3f5!important;
+}
+
+.pf-c-select {
+    --pf-c-select__toggle--before--BorderBottomColor: transparent;
+}
+.pf-c-select__toggle:hover {
+    --pf-c-select__toggle--before--BorderBottomColor: transparent;
+}
+.pf-c-search-input {
+    --pf-c-search-input__text--after--BorderBottomColor: transparent;
+}
+input:focus-visible {
+    outline-offset: 0px;
+    outline:0px!important;
+}
+.pf-c-search-input__text:focus-within {
+    --pf-c-search-input__text--after--BorderBottomColor: transparent!important;
+}
+.pf-c-search-input__bar:hover {
+    --pf-c-search-input__text--after--BorderBottomColor: transparent!important;
+}
+#journal-box .panel-heading {
+    font-size: 1.25rem;;
+    color: #000000;
+    font-family: 'Segoe UI', sans-serif;
+}
+.pf-m-expanded>.pf-c-select__toggle {
+    --pf-c-select__toggle--before--BorderBottomColor: transparent!important;
+}
